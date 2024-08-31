@@ -47,7 +47,6 @@ class Hashing {
     }
   }
 
-  // Private utility functions
   #add(a, b, mod) {
     return (a + b + mod) % mod;
   }
