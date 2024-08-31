@@ -4,7 +4,7 @@ class Hashing {
   #base2 = 31;
   #mod1 = 1e9 + 7;
   #mod2 = 1e9 + 9;
-
+  str
   #pw1;
   #pw2;
   #inv1;
@@ -78,7 +78,7 @@ class Hashing {
   }
 
   getHash() {
-    let arr = this.queryHash(0, str.length - 1);
+    let arr = this.queryHash(0, this.str.length - 1);
     return `${arr[0]}${arr[1]}`;
   }
 }
