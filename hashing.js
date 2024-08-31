@@ -4,7 +4,7 @@ class Hashing {
   #base2 = 31;
   #mod1 = 1e9 + 7;
   #mod2 = 1e9 + 9;
-
+  str
   #pw1;
   #pw2;
   #inv1;
