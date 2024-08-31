@@ -1,0 +1,22 @@
+{
+  "name": "hashing",
+  "version": "1.0.0",
+  "description": "Hashing strings to numbers string (max length = 100)",
+  "main": "hashing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdallahMohsen3162/Hashing.git"
+  },
+  "keywords": [
+    "hashing"
+  ],
+  "author": "Abdallah mohsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdallahMohsen3162/Hashing/issues"
+  },
+  "homepage": "https://github.com/abdallahMohsen3162/Hashing#readme"
+}
